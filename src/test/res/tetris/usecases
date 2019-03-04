@@ -1,0 +1,91 @@
+    //Test: Rows rearranged covering 4 lines after piece released because of boundary *
+    //Test: Rows rearranged covering 3 lines after piece released because of boundary *
+    //Test: Rows rearranged covering 2 lines after piece released because of boundary
+    //Test: Rows rearranged covering 1 line after piece released because of boundary
+    //Test: Rows not rearranged covering 0 lines after piece released because of boundary
+    //Test: Rows rearranged covering 4 lines after piece released because of obstacle *
+    //Test: Rows rearranged covering 3 lines after piece released because of obstacle *
+    //Test: Rows rearranged covering 2 lines after piece released because of obstacle
+    //Test: Rows rearranged covering 1 line after piece released because of obstacle
+    //Test: Rows not rearranged covering 0 lines after piece released because of obstacle
+    //Test: Rows rearranged covering 4 lines after piece released because of obstacle on the top *
+    //Test: Rows rearranged covering 3 lines after piece released because of obstacle on the top *
+    //Test: Rows rearranged covering 2 lines after piece released because of obstacle on the top
+    //Test: Rows rearranged covering 1 line after piece released because of obstacle on the top
+    //Test: Rows not rearranged covering 0 lines after piece released because of obstacle on the top
+
+    //Test: Listener notified with score covering 4 lines after piece released because of boundary *
+    //Test: Listener notified with score covering 3 lines after piece released because of boundary *
+    //Test: Listener notified with score covering 2 lines after piece released because of boundary
+    //Test: Listener notified with score covering 1 line after piece released because of boundary
+    //Test: Listener not notified with score covering 0 lines after piece released because of boundary
+    //Test: Listener notified with score covering 4 lines after piece released because of obstacle *
+    //Test: Listener notified with score covering 3 lines after piece released because of obstacle *
+    //Test: Listener notified with score covering 2 lines after piece released because of obstacle
+    //Test: Listener notified with score covering 1 line after piece released because of obstacle
+    //Test: Listener not notified with score covering 0 lines after piece released because of obstacle
+    //Test: Listener notified with score covering 4 lines after piece released because of obstacle on the top *
+    //Test: Listener notified with score covering 3 lines after piece released because of obstacle on the top *
+    //Test: Listener notified with score covering 2 lines after piece released because of obstacle on the top
+    //Test: Listener notified with score covering 1 line after piece released because of obstacle on the top
+    //Test: Listener not notified with score covering 0 lines after piece released because of obstacle on the top
+
+    //Test: Listener piece released notified when covering 4 lines after piece released because of boundary *
+    //Test: Listener piece released notified when covering 3 lines after piece released because of boundary *
+    //Test: Listener piece released notified when covering 2 lines after piece released because of boundary
+    //Test: Listener piece released notified when covering 1 line after piece released because of boundary
+    //Test: Listener piece released notified when covering 0 lines after piece released because of boundary
+    //Test: Listener piece released notified when covering 4 lines after piece released because of obstacle *
+    //Test: Listener piece released notified when covering 3 lines after piece released because of obstacle *
+    //Test: Listener piece released notified when covering 2 lines after piece released because of obstacle
+    //Test: Listener piece released notified when covering 1 line after piece released because of obstacle
+    //Test: Listener piece released notified when covering 0 lines after piece released because of obstacle
+    //Test: Listener piece released notified when covering 4 lines after piece released because of obstacle on the top *
+    //Test: Listener piece released notified when covering 3 lines after piece released because of obstacle on the top *
+    //Test: Listener piece released notified when covering 2 lines after piece released because of obstacle on the top
+    //Test: Listener piece released notified when covering 1 line after piece released because of obstacle on the top
+    //Test: Listener piece released notified when covering 0 lines after piece released because of obstacle on the top
+
+    //Test: Listener game over not notified when covering 4 lines after piece released because of boundary *
+    //Test: Listener game over not notified when covering 3 lines after piece released because of boundary *
+    //Test: Listener game over not notified when covering 2 lines after piece released because of boundary
+    //Test: Listener game over not notified when covering 1 line after piece released because of boundary
+    //Test: Listener game over not notified when covering 0 lines after piece released because of boundary
+    //Test: Listener game over not notified when covering 4 lines after piece released because of obstacle *
+    //Test: Listener game over not notified when covering 3 lines after piece released because of obstacle *
+    //Test: Listener game over not notified when covering 2 lines after piece released because of obstacle
+    //Test: Listener game over not notified when covering 1 line after piece released because of obstacle
+    //Test: Listener game over not notified when covering 0 lines after piece released because of obstacle
+    //Test: Listener game over not notified when covering 4 lines after piece released because of obstacle on the top *
+    //Test: Listener game over not notified when covering 3 lines after piece released because of obstacle on the top *
+    //Test: Listener game over not notified when covering 2 lines after piece released because of obstacle on the top
+    //Test: Listener game over not notified when covering 1 line after piece released because of obstacle on the top
+    //Test: Listener game over not notified when covering 0 lines after piece released because of obstacle on the top
+
+    //Test: Listener game over notified covering 1 line after piece released when game over occurred in the same turn with 2 hidden rows overlapped *
+    //Test: Listener game over notified covering 1 line after piece released when game over occurred in the same turn with 1 hidden row overlapped *
+    //Test: Listener game over notified with 4 hidden rows overlapped *
+    //Test: Listener game over notified with 3 hidden rows overlapped *
+    //Test: Listener game over notified with 2 hidden rows overlapped
+    //Test: Listener game over notified with 1 hidden row overlapped
+
+    //Test: Listener notified with score covering 1 line after piece released when game over occurred in the same turn with 2 hidden rows overlapped *
+    //Test: Listener notified with score covering 1 line after piece released when game over occurred in the same turn with 1 hidden row overlapped *
+    //Test: Listener not notified with score after piece released when game over occurred in the same turn with 4 hidden rows overlapped *
+    //Test: Listener not notified with score after piece released when game over occurred in the same turn with 3 hidden rows overlapped *
+    //Test: Listener not notified with score after piece released when game over occurred in the same turn with 2 hidden rows overlapped
+    //Test: Listener not notified with score after piece released when game over occurred in the same turn with 1 hidden row overlapped
+
+    //Test: Rows rearranged covering 1 line after piece released when game over occurred in the same turn with 2 hidden rows overlapped *
+    //Test: Rows rearranged covering 1 line after piece released when game over occurred in the same turn with 1 hidden row overlapped *
+    //Test: Rows not rearranged when game over occurred with 4 hidden rows overlapped *
+    //Test: Rows not rearranged when game over occurred with 3 hidden rows overlapped *
+    //Test: Rows not rearranged when game over occurred with 2 hidden rows overlapped
+    //Test: Rows not rearranged when game over occurred with 1 hidden row overlapped
+
+    //Test: Listener piece released not notified covering 1 line after piece released when game over occurred in the same turn with 2 hidden rows overlapped *
+    //Test: Listener piece released not notified covering 1 line after piece released when game over occurred in the same turn with 1 hidden row overlapped *
+    //Test: Listener piece released not notified after piece released when game over occurred in the same turn with 4 hidden rows overlapped *
+    //Test: Listener piece released not notified after piece released when game over occurred in the same turn with 3 hidden rows overlapped *
+    //Test: Listener piece released not notified after piece released when game over occurred in the same turn with 2 hidden rows overlapped
+    //Test: Listener piece released not notified after piece released when game over occurred in the same turn with 1 hidden row overlapped
