@@ -1,5 +1,5 @@
 # TetrisMaster
-This is a Java desktop application that contains two games in one. The first game is a very popular classic game known as 'Tetris'. The second game is a Tetris adaptation which I called 'Blocks'. The purpose of this game is showing how to program a puzzle game in Java making use of all the power of the Object Oriented Programming (OOP).
+This is a Java desktop application that contains two games in one. The first game is a very popular classic game known as 'Tetris'. The second game is a Tetris adaptation which I called 'Blocks'. The purpose of this project is showing how to program a puzzle game in Java making use of all the power of the Object Oriented Programming (OOP).
 
 ![alt text](src/main/res/screenshots/main-menu.png)
 
